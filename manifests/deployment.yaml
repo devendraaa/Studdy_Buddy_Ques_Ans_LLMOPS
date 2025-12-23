@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: llmops-app
-        image: devendraaa/studdybuddy:v68
+        image: devendraaa/studdybuddy:v69
         ports:
         - containerPort: 8501
         env:
