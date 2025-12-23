@@ -21,7 +21,7 @@ def main():
         st.session_state.rerun_trigger = False
         
 
-    st.title("Study Buddy AI using LLMOPS")
+    st.title("Study Buddy AI using LLMOPS with Dev")
 
     st.sidebar.header("Quiz Settings")
 
